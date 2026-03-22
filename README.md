@@ -1,4 +1,4 @@
-# Data-Science-Analytics-Internship-tasks-1-5.
+# Data-Science-Analytics-Internship-tasks-1-5-
 This repository contains all tasks completed as part of the Data Science & Analytics Internship at DevelopersHub Corporation. The tasks focus on data exploration, visualization, machine learning modeling, and performance evaluation using Python.
 
 ---
